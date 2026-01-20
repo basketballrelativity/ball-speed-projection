@@ -1,0 +1,7 @@
+arviz
+google-cloud-bigquery
+ipywidgets
+pandas
+pandas-gbq
+pymc
+pytensor
