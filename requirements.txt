@@ -1,5 +1,6 @@
 arviz
 google-cloud-bigquery
+graphviz
 ipywidgets
 pandas
 pandas-gbq
